@@ -19,6 +19,6 @@
 - Next we will calculate the distance for the point furthest away from the center
   - ![ScreenShot_20210801191541](https://user-images.githubusercontent.com/39852784/127779790-0e98b63a-c074-4499-b7b9-93ffa114a68f.png)
 - Then using a ratio of that distance we create a circle
-  - ![ScreenShot_20210801191541](https://user-images.githubusercontent.com/39852784/127779793-ec5a22b9-0869-453b-a545-0a6b3431b9eb.png)
+  - ![ScreenShot_20210801191611](https://user-images.githubusercontent.com/39852784/127779839-5f592241-f41a-46cb-8e26-f8d84f90c8a7.png)
 - Any points outside of this circle and far away enough from the bottom, should be extended fingers!
-  - ![ScreenShot_20210801191541](https://user-images.githubusercontent.com/39852784/127779797-fa92ae7a-f3b0-4688-b46b-84e8044f6882.png)
+  - ![ScreenShot_20210801191622](https://user-images.githubusercontent.com/39852784/127779844-e39ddec0-e3f7-4351-875e-31594eaa1b7f.png)
