@@ -30,4 +30,6 @@
 
 --- 
 
-[project documentation](https://drive.google.com/file/d/1V9sttTZGoNFZhFbxZfypWaxTvlEkbXN_/view?usp=sharing)
+[project documentation](https://drive.google.com/file/d/1V9sttTZGoNFZhFbxZfypWaxTvlEkbXN_/view?usp=sharing) 
+
+depend on [Jose Portilla course](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
