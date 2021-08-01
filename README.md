@@ -22,3 +22,12 @@
   - ![ScreenShot_20210801191611](https://user-images.githubusercontent.com/39852784/127779839-5f592241-f41a-46cb-8e26-f8d84f90c8a7.png)
 - Any points outside of this circle and far away enough from the bottom, should be extended fingers!
   - ![ScreenShot_20210801191622](https://user-images.githubusercontent.com/39852784/127779844-e39ddec0-e3f7-4351-875e-31594eaa1b7f.png)
+
+
+---
+
+![Finger Count](https://user-images.githubusercontent.com/39852784/127780382-e171ad87-d228-45d7-a88c-0b13e9e94d99.gif)
+
+--- 
+
+[project documentation](https://drive.google.com/file/d/1V9sttTZGoNFZhFbxZfypWaxTvlEkbXN_/view?usp=sharing)
